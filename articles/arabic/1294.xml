@@ -213,7 +213,7 @@
                   <cell/>
                </row>
                <row>
-                  <cell>٧٦</cell>
+                  <cell><bibl><biblScope unit="issue">٧٦</biblScope></bibl></cell>
                   <cell>٤ ج سنة ٨٤</cell>
                   <cell>١</cell>
                   <cell>افادة بطلب عدم قبول تصرف <persName>محمد زغلول الفاكهانى</persName> فى شئ من
@@ -222,7 +222,7 @@
                         <persName>الخواجا مراد يوسف</persName></cell>
                </row>
                <row>
-                  <cell>٢٨٠</cell>
+                  <cell><bibl><biblScope unit="issue">٢٨٠</biblScope></bibl></cell>
                   <cell>٢٣ ذى سنة ٨٨</cell>
                   <cell>١</cell>
                   <cell>افاده بعدم قبول تصرف من <persName>الخواجات عبد الملك سعد</persName> وولده
@@ -230,7 +230,7 @@
                      الكائن بدرب الجنينه بالازبكيه بحسب قضية افلاسهما المنظورة بالمجلس</cell>
                </row>
                <row>
-                  <cell>٤٣٥</cell>
+                  <cell><bibl><biblScope unit="issue">٤٣٥</biblScope></bibl></cell>
                   <cell>١٤ ش سنة ٧٨</cell>
                   <cell>١</cell>
                   <cell>افادة بعدم طلب قبول تصرف من <persName>الحاج حسن صالح مفتاح</persName>
@@ -238,15 +238,15 @@
                      البالغ قدره باره ٧ و ١٠٣٤٣ قرش</cell>
                </row>
                <row>
-                  <cell>٧٠</cell>
+                  <cell><bibl><biblScope unit="issue">٧٠</biblScope></bibl></cell>
                   <cell>١٤ شوال سنة ٧٨</cell>
                   <cell>١</cell>
                   <cell>افاده بطلب عدم قبول تصرف فى الاربعة قراريط بقاسم كيخيه والسبعة قراريط من
-                     المنزل الكائن ببرجوان تعلق السيد <persName>محمد عبد العظيم</persName> نظرا
+                     المنزل الكائن ببرجوان تعلق ا<persName>لسيد محمد عبد العظيم</persName> نظرا
                      لقضايا الديون المقامه عليه بالمجلس</cell>
                </row>
                <row>
-                  <cell>٨٤٣</cell>
+                  <cell><bibl><biblScope unit="issue">٨٤٣</biblScope></bibl></cell>
                   <cell>٣ رمضان سنة ٧٨</cell>
                   <cell>١</cell>
                   <cell>افادة بعدم طلب قبول توقيع مبايعات من <persName>أحمد الصيرفى الصباغ
@@ -255,35 +255,38 @@
                      المجلس</cell>
                </row>
                <row>
-                  <cell>٢٣٦</cell>
+                  <cell><bibl><biblScope unit="issue">٢٣٦</biblScope></bibl></cell>
                   <cell>١٧ جا سنة ٧٦</cell>
                   <cell>١</cell>
-                  <cell>افادة بطلب عدم قبول تصرف من الشيخ <persName>أمين عتمان حموده
+                  <cell>افادة بطلب عدم قبول تصرف من <persName>الشيخ أمين عتمان حموده
                         التاجر</persName> فى شئ مما يمتلكه من عقار وغيره نظرا للديون المطالبة بها
-                     مذكورين بافادة ضبطية مصر المرسو له للمجلس نمرة ٧٢</cell>
+                     مذكورين بافادة ضبطية مصر المرسو له للمجلس <bibl><biblScope unit="issue">نمرة
+                           ٧٢</biblScope></bibl></cell>
                </row>
                <row>
-                  <cell>٤٦٤</cell>
+                  <cell><bibl><biblScope unit="issue">٤٦٤</biblScope></bibl></cell>
                   <cell>٢٥ ش سنة ٧٨</cell>
                   <cell>١</cell>
                   <cell>افاده بطلب عدم قبول تصرف فى المنزل الكائن فى بالمناصره بقنطرة الامير حسين
-                     تعلق المرحوم <persName>خليل افندى حسين</persName> ولا يتحرر ايلوله لاحد من
-                     ورثته نظرا لكونه ضامن ولده <persName>أمين خليل</persName> المديون الى محل اخوان
-                     ابو جبانه فى مبلغ ٨٣٢٤ قرش</cell>
+                     تعلق <persName>المرحوم خليل افندى حسين</persName> ولا يتحرر ايلوله لاحد من
+                     ورثته نظرا لكونه ضامن ولده <persName>أمين خليل</persName> المديون الى <orgName
+                        ref="محل-اخوان-ابو-جبانه" type="محل">محل اخوان ابو جبانه</orgName> فى مبلغ
+                     ٨٣٢٤ قرش</cell>
                </row>
                <row>
-                  <cell>٥٥٠</cell>
+                  <cell><bibl><biblScope unit="issue">٥٥٠</biblScope></bibl></cell>
                   <cell>٤ ذى سنة ٨٥</cell>
                   <cell>١</cell>
-                  <cell>افاده بطلب عدم قبول تصرف من الحاج <persName>عباسى حمد المهندس
+                  <cell>افاده بطلب عدم قبول تصرف من <persName>الحاج عباسى حمد المهندس
                         المعمارى</persName> فى المنزلين تعلقه الكائنين بجهة عرب يسار ومن<persName>
                         محمد افندى القماح التاجر</persName> بالخرنفش فى منزله الكائن بالحسينيه بحارة
-                     فليفل لحين نهو قضية الشيخ <persName>حسين شديد معهما</persName></cell>
+                     فليفل لحين نهو قضية <persName>الشيخ حسين شديد معهما</persName></cell>
                </row>
             </table>
          </div>
          <div>
-            <head>صفحة ٤ – العمود ٢ النصف الاسفل من الصفحة باقيه المقال</head>
+            <head><bibl><biblScope unit="page">صفحة ٤</biblScope> – <biblScope unit="column">العمود
+                     ٢</biblScope></bibl> النصف الاسفل من الصفحة باقيه المقال</head>
             <table>
                <row>
                   <cell>نمره</cell>
@@ -292,15 +295,15 @@
                   <cell/>
                </row>
                <row>
-                  <cell>٣٦٥</cell>
+                  <cell><bibl><biblScope unit="issue">٣٦٥</biblScope></bibl></cell>
                   <cell>٢٦ ن سنة ٨٣</cell>
                   <cell>١</cell>
                   <cell>افاده بطلب عدم قبول تصرف <persName>محمد الزن القماح</persName> بباب الشعريه
-                     فى شئ من املاكه كونه ضامن من الشيخ <persName>على الفرماوى النحاس</persName>
+                     فى شئ من املاكه كونه ضامن من <persName>الشيخ على الفرماوى النحاس</persName>
                      المديون لارباويين ومنظوره بالمجلس قضية ديونه</cell>
                </row>
                <row>
-                  <cell>٣٤٥</cell>
+                  <cell><bibl><biblScope unit="issue">٣٤٥</biblScope></bibl></cell>
                   <cell>٢٢ ش سنة ٨٤</cell>
                   <cell>١</cell>
                   <cell>افاده بطلب عدم قبول تصرف من <persName>داود افندى المعاون</persName> بديوان
@@ -309,35 +312,35 @@
                      لون غامق)</cell>
                </row>
                <row>
-                  <cell>١٥٤</cell>
+                  <cell><bibl><biblScope unit="issue">١٥٤</biblScope></bibl></cell>
                   <cell>٢٧ ج سنة ٧٥</cell>
                   <cell>١</cell>
-                  <cell>افاده بطلب عدم قبول تصرف من الشيخ <persName>أحمد فراج الرزاز
+                  <cell>افاده بطلب عدم قبول تصرف من <persName>الشيخ أحمد فراج الرزاز
                         ببولاق</persName> و<persName>أحمد الحضرى كاتب طرفه</persName> فى شئ من
                      املاكهما كونهما مسؤلين فيما هو على <persName>احمد فراج</persName> للميرى
                      والتجار الارباويين والدايره الالهامية</cell>
                </row>
                <row>
-                  <cell>١٢٦٧</cell>
+                  <cell><bibl><biblScope unit="issue">١٢٦٧</biblScope></bibl></cell>
                   <cell>٢٤ ر سنة ٨٣</cell>
                   <cell>١</cell>
-                  <cell>افاده بطلب عدم قبول تصرف من <persName>عبد الوهاب مصطفى</persName> والسيد
-                        <persName>محمد ديل</persName> فى شئ من أملاكهما الكائنة بالعطوف وغيرها نظرا
-                     لكون <persName>عبد الوهاب المرقوم</persName> ضامن <persName>حسن
-                        الشامى</persName> المنظورة قضية ما يطالبونه منه أشخاص بالمجلس والسيد
-                        <persName>محمد دبل</persName> شيخ طائفة السنمسية المرقوم مصدق على الضامن
-                     المذكور</cell>
+                  <cell>افاده بطلب عدم قبول تصرف من <persName>عبد الوهاب مصطفى</persName>
+                        و<persName>السيد محمد ديل</persName> فى شئ من أملاكهما الكائنة بالعطوف
+                     وغيرها نظرا لكون <persName>عبد الوهاب المرقوم</persName> ضامن <persName>حسن
+                        الشامى</persName> المنظورة قضية ما يطالبونه منه أشخاص بالمجلس
+                        و<persName>السيد محمد دبل</persName> شيخ طائفة السنمسية المرقوم مصدق على
+                     الضامن المذكور</cell>
                </row>
                <row>
-                  <cell>٢٠٨</cell>
+                  <cell><bibl><biblScope unit="issue">٢٠٨</biblScope></bibl></cell>
                   <cell>١٨ ذى سنة ٢٩٠</cell>
                   <cell>١</cell>
-                  <cell>افاده بطلب عدم قبول تصرف من السيد <persName>حسن الشربينى الصباغ</persName>
+                  <cell>افاده بطلب عدم قبول تصرف من <persName>السيد حسن الشربينى الصباغ</persName>
                      فى منزله الكائن بباب الشعريه نظرا للدين المطالب به <persName>محمد شميس شيخ
                         الصباغين</persName> ومنظوره قضيته بالمجلس</cell>
                </row>
                <row>
-                  <cell>٢١</cell>
+                  <cell><bibl><biblScope unit="issue">٢١</biblScope></bibl></cell>
                   <cell>٢٣ ب سنة ٨٩</cell>
                   <cell>١</cell>
                   <cell>افاده بطلب عدم قبول تصرف من السيد <persName>أمين براده</persName> فى حصة
@@ -348,13 +351,13 @@
                      بالمجلس</cell>
                </row>
                <row>
-                  <cell>٥٢</cell>
+                  <cell><bibl><biblScope unit="issue">٥٢</biblScope></bibl></cell>
                   <cell>٧ ش سنة ٨٩</cell>
                   <cell>١</cell>
                   <cell>افاده بطلب عدم قبول تصرف من <persName>بيومى هجرس</persName> فى المنزل تعلقه
                      الكائنة (ال ه زيادة) بحارة الخوخه بمصر القديمة نظرا للمبلغ المطلوب منه لورثة
-                     المرحوم <persName>عفيفى بدوى</persName> بمصر القديمة وقدره ٧١٨٧ قرش ومحال رؤية
-                     قضيته بالمجلس</cell>
+                        <persName>المرحوم عفيفى بدوى</persName> بمصر القديمة وقدره ٧١٨٧ قرش ومحال
+                     رؤية قضيته بالمجلس</cell>
                </row>
                <row>
                   <cell/>
@@ -366,14 +369,15 @@
          </div>
          <div>
             <head>N° ٧١٥ – ١٣ Jumada II ١٢٩٤ – ٢٤ juin ١٨٧٧ – ١٨ Bu’ana ١٥٩٣</head>
-            <head>صفحة ٣ – العمود ٢</head>
+            <head><bibl><biblScope unit="page">صفحة ٣</biblScope> – <biblScope unit="column">العمود
+                     ٢</biblScope></bibl></head>
             <head>اعلانات</head>
             <head>نص اعلان وارد من ضبطية مصر <date when="1294-06-03">بتاريخ ٣ جمادى الثانى سنة
                   ٩٤</date></head>
-            <p>شخص يدعى <persName>ابراهيم صابر</persName> مديون فى مبلغ مائتان جنيه انكليزى الى حرم
-               المرحوم <persName>على باشا شكرى</persName> ولما ان المديون المذكور حرر قائمة مزاد
-               بمبيع منزل له كائن بحارة بير الوطاويط بالخليفه (النقطة على حرف ال خ محذوفه ) من أجل
-               سداد المبلغ المرقوم صار اشهاره فى المزاد وبعد ان رسى العطا فيه على شخص اسمه
+            <p>شخص يدعى <persName>ابراهيم صابر</persName> مديون فى مبلغ مائتان جنيه انكليزى الى
+                  <persName>حرم المرحوم على باشا شكرى</persName> ولما ان المديون المذكور حرر قائمة
+               مزاد بمبيع منزل له كائن بحارة بير الوطاويط بالخليفه (النقطة على حرف ال خ محذوفه ) من
+               أجل سداد المبلغ المرقوم صار اشهاره فى المزاد وبعد ان رسى العطا فيه على شخص اسمه
                   <persName>عبد الله افندى ابراهيم</persName> بمبلغ مائتان جنيه وتظلم المديون
                المذكور من استقلال الثمن المعطى فى المنزل المحكى عنه قد تعين من لزم من شيخ وعمد
                الدلالاين وبمعاينتهم تلك المحل أوضحوا على انه يسوى مائتان خمسة وعشرون جنيه وحيث ان
