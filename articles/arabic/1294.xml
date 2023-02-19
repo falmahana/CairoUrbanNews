@@ -118,18 +118,20 @@
    <text xml:lang="ar">
       <body>
          <div xml:id="w81" resp="#eAM">
-            <head>N° ٧٠٢ – ١٠ Rabi’a I ١٢٩٤ – ٢٥ mars ١٨٧٧ – ١٧ Barmahat ١٥٩٣</head>
+            <head>N° ٧٠٢ –<date when="1294-03-10">١٠ Rabi’a I ١٢٩٤</date> – <date when="1877-03-25"
+                  >٢٥ mars ١٨٧٧</date> – ١٧ Barmahat ١٥٩٣</head>
             <head><bibl><biblScope unit="page">صفحة ١</biblScope> – <biblScope unit="column">العمود
                      ١</biblScope></bibl></head>
             <p>فى سابع شهر ربيع الاول نقل ب<rs type="امر">امر</rs> الحضرة الفخيمة الخديوية <orgName
                   ref="مجلس-استئناف-مصر" type="مجلس">مجلس استئناف مصر</orgName> من <placeName
-                  type="القلعة">القلعة العامرة</placeName> الى المحل الذى هيئ له بجوار
-                     <orgName><placeName>المحكمة الشرعية</placeName></orgName> تسهيلا لنجاز قضايا
+                  type="القلعة">القلعة العامرة</placeName> الى المحل الذى هيئ له بجوار <orgName
+                  ref="المحكمة-الشرعية" type="محكمة">المحكمة الشرعية</orgName> تسهيلا لنجاز قضايا
                أصحاب الحقوق أجمعين لاسيما الفقراء والعاجزين والمحتاجين أدام الله الجناب الخديوى
                ممتعا بانجاله الفخام بجاه سيد الخلق وآله الكرام </p>
          </div>
          <div>
-            <head>N° ٧٠٤ – ٢٤ Rabi’a I ١٢٩٤ – ٨ avril ١٨٧٧ – ١ Baramuda ١٥٩٣</head>
+            <head>N° ٧٠٤ – <date when="1294-03-24">٢٤ Rabi’a I ١٢٩٤</date> – <date when="1877-04-08"
+                  >٨ avril ١٨٧٧</date> – ١ Baramuda ١٥٩٣</head>
             <head><bibl><biblScope unit="page">صفحة ١</biblScope> - <biblScope unit="column">العمود
                      ١</biblScope></bibl></head>
             <p>منذ ايام سبق نقل <orgName type="مجلس " ref="مجلس-مصر-الابتداءى">مجلس مصر
@@ -141,7 +143,8 @@
                وتسهيل قضايا المتفرعة لذوى الحاجات فلا تحتاج الى ساعات عدة بل تنتهى سريعا فى اقرب مده </p>
          </div>
          <div>
-            <head>N° ٧٠٥ – ٣٠ Rabi’a I ١٢٩٤ – ١٥ avril ١٨٧٧ – ٨ Baramuda ١٥٩٣</head>
+            <head>N° ٧٠٥ – <date when="1294-03-30">٣٠ Rabi’a I ١٢٩٤</date> – <date when="1877-04-15"
+                  >١٥ avril ١٨٧٧</date> – ٨ Baramuda ١٥٩٣</head>
             <head><bibl><biblScope unit="page">صفحة ١</biblScope>- <biblScope unit="column">العمود
                      ١</biblScope></bibl></head>
             <head>الحوادث الداخليه</head>
@@ -179,7 +182,8 @@
             <p>المطالع فكان مجتمعا بهجته باهرة بهيه متحليا بجمال الكمال فى ظل الحضرة الخدويه فياله من باب أسس على التقوى وتمسك من علو المقام بالسبب الاقوى وهو متخذ من ألواح رخام مختلف الألوان وفيه من أنواع النقوش ما يشار الى حسنه بالبنان أشكال رسمه بديعة بارعه يتلألأ نورا كانه الشمس فى الرابعه بهجته (ج معطشة) تسر الناظرين ورؤيته تشرح صدور الزائرين ظهرت أنوار قبله على تمكين أساسه المتين مبشرة بتمكن العز ودوام النصر والفتح المبين وباسعافات الجنب الخديوى سينتظم عقد رونقه فى جيد تشييده فيكون أصدق بشير بتأييد ملكه وانتظام تأييده متع الله الوجود بوجوده وأتحفهم بمآثر تفضلاته وجوده وأجرى تنجيز الخيرات على يديه ونظر بعين عنايته الربانية اليه </p>
          </div>
          <div>
-            <head>N° ٧٠٨ – ٢٢ Rabi’a II ١٢٩٤ – ٦ mai ١٨٧٧ – ٢٩ Baramuda ١٥٩٣</head>
+            <head>N° ٧٠٨ – <date when="1294-04-22">٢٢ Rabi’a II ١٢٩٤</date> – <date
+                  when="1877-05-06">٦ mai ١٨٧٧</date> – ٢٩ Baramuda ١٥٩٣</head>
             <head><bibl><biblScope unit="page">صفحة ٣</biblScope> – <biblScope unit="column">العمود
                      ٢</biblScope></bibl></head>
             <head>نص اعلان وارد من محافظة مصر <date when="1294-04-21">بتاريخ ٢١ ربيع آخر سنة
@@ -198,11 +202,12 @@
                أو معاينة ذات المحلات فله المعاينة والمطالعة حسب ما مر الذكر </p>
          </div>
          <div>
-            <head>N° ٧١٣ – ٢٨ Jumada I ١٢٩٤ – ١٠ juin ١٨٧٧ – ٤ Ba’una ١٥٩٣</head>
-            <p>عن بيان المكاتبات السابق ورودها لمحكمة مصر الشرعية الكبرى بالحجز على املاك مذكورين
-               [تق؟]رر ذلك بناء على ما ورد من <orgName ref="ديوان-المحافظة-مصر" type="ديوان">ديوان
-                  المحافظة مصر</orgName> رقم <bibl><date when="1294-04-15">١٥ ربيع الثانى سنة
-                     ١٢٩٤</date>
+            <head>N° ٧١٣ – <date when="1294-05-28">٢٨ Jumada I ١٢٩٤</date> – <date when="1877-06-10"
+                  >١٠ juin ١٨٧٧</date> – ٤ Ba’una ١٥٩٣</head>
+            <p>عن بيان المكاتبات السابق ورودها<orgName type="محكمة" ref="لمحكمة-مصر-الشرعية-الكبرى"
+                  >لمحكمة مصر الشرعية الكبرى</orgName> بالحجز على املاك مذكورين [تق؟]رر ذلك بناء على
+               ما ورد من <orgName ref="ديوان-المحافظة-مصر" type="ديوان">ديوان المحافظة مصر</orgName>
+               رقم <bibl><date when="1294-04-15">١٥ ربيع الثانى سنة ١٢٩٤</date>
                   <biblScope unit="issue">نمرة ١٢٣</biblScope>
                </bibl></p>
             <table>
@@ -368,7 +373,8 @@
             </table>
          </div>
          <div>
-            <head>N° ٧١٥ – ١٣ Jumada II ١٢٩٤ – ٢٤ juin ١٨٧٧ – ١٨ Bu’ana ١٥٩٣</head>
+            <head>N° ٧١٥ – <date when="1294-06-13">١٣ Jumada II ١٢٩٤</date> – <date
+                  when="1877-06-24">٢٤ juin ١٨٧٧</date> – ١٨ Bu’ana ١٥٩٣</head>
             <head><bibl><biblScope unit="page">صفحة ٣</biblScope> – <biblScope unit="column">العمود
                      ٢</biblScope></bibl></head>
             <head>اعلانات</head>
@@ -387,7 +393,8 @@
                لا عطا العطا على قايمة المزاد حسب الاصول </p>
          </div>
          <div>
-            <head>N° ٧١٩ – ١١ Rajab ١٢٩٤ – ٢٢ juillet ١٢٩٤ – ١٦ Abib ١٥٩٣</head>
+            <head>N° ٧١٩ – <date when="1294-07-11">١١ Rajab ١٢٩٤</date> – ٢٢ juillet ١٢٩٤ – ١٦ Abib
+               ١٥٩٣</head>
             <head><bibl><biblScope unit="page">صفحة ٤</biblScope> – <biblScope unit="column">العمود
                      ١</biblScope></bibl></head>
             <head>اعلانات</head>
@@ -402,7 +409,8 @@
                فلا يكن الديوان ملزوما بقبول قول منه ولا البحث عنه فيما بعد</p>
          </div>
          <div>
-            <head>N° ٧٢٠ – ١٨ Rajab ١٢٩٤ – ٢٩ juillet ١٢٩٤ – ٢٣ Abib ١٥٩٣</head>
+            <head>N° ٧٢٠ – <date when="1294-07-18">١٨ Rajab ١٢٩٤</date> – ٢٩ juillet ١٢٩٤ – ٢٣ Abib
+               ١٥٩٣</head>
             <head><bibl><biblScope unit="page">صفحة ٤</biblScope> – <biblScope unit="column">العمود
                      ٢</biblScope></bibl></head>
             <head>اعلانات</head>
@@ -438,12 +446,13 @@
             <p>بالنيابة عن الوكلا الطالبين روسى وزيا ابوكانيه (مكتوبه كدا)</p>
          </div>
          <div>
-            <head>N° ٧٢١ – ٢٥ Rajab ١٢٩٤ – ٥ Août ١٨٧٧ – ٣٠ Abib ١٥٩٣</head>
+            <head>N° ٧٢١ – <date when="1294-07-25">٢٥ Rajab ١٢٩٤</date> – <date when="1877-08-05">٥
+                  Août ١٨٧٧</date> – ٣٠ Abib ١٥٩٣</head>
             <head><bibl><biblScope unit="page">صفحة ٣</biblScope> – <biblScope unit="column">العمود
                      ٣</biblScope></bibl></head>
             <head>اعلانات</head>
             <head>نص اعلان وارد من <orgName type="ديوان" ref="ديوان-عموم-الاوقاف">ديوان عموم
-                  الاوقاف</orgName> بتاريخ ٨ رجب سنة ٩٤</head>
+                  الاوقاف</orgName> بتاريخ <date when="1294-07-08">٨ رجب سنة ٩٤</date></head>
             <table>
                <row>
                   <cell>عدد</cell>
@@ -456,7 +465,8 @@
             </table>
          </div>
          <div>
-            <head>N° ٧٢٤ – ١٧ Shaaban ١٢٩٤ – ٢٦ août ١٨٧٧ – ٢١ Misri ١٥٩٣</head>
+            <head>N° ٧٢٤ – <date when="1294-08-17">١٧ Shaaban ١٢٩٤</date> – <date when="1877-08-26"
+                  >٢٦ août ١٨٧٧</date> – ٢١ Misri ١٥٩٣</head>
             <head><bibl><biblScope unit="page">صفحة ٣</biblScope> – <biblScope unit="column">العمود
                      ٢</biblScope></bibl></head>
             <head>اعلانات</head>
@@ -468,7 +478,8 @@
          <div>
             <head><bibl><biblScope unit="page">صفحة ٣</biblScope> – <biblScope unit="column">العمود
                      ٣</biblScope></bibl></head>
-            <head>صورة ما صدر من المجلس الخصوصى الى ديوان الداخلية رقيم (مكتوبه كدا) ٢٩ ب سنة ٩٤ نمرة ٨٦</head>
+            <head>صورة ما صدر من المجلس الخصوصى الى ديوان الداخلية رقيم (مكتوبه كدا) ٢٩ ب سنة
+                     ٩٤<bibl><biblScope unit="issue">نمرة ٨٦</biblScope></bibl></head>
             <p>لقد تبين للمجلس من تلاوة الافادة الواردة للداخلية من <orgName type="مجلس"
                   ref="مجلس-الاحكام">مجلس الاحكام</orgName> رقيم ٢٠ ب سنة ٩٤ نمرة ٨٨ و الاوراق
                مرفوقها ان مجلس ابتداء مصر كان قدم للداخلية مضبطه مؤرخة ٢١ الحجه سنة ٩٢ نمرة ٤٢ تشتمل
@@ -524,7 +535,8 @@
                الخبر)</p>
          </div>
          <div>
-            <head>N° ٧٣٣ – ٢١ Shawwal ١٢٩٤ – ٢٨ octobre ١٨٧٧ – ١٩ Baba ١٥٩٤</head>
+            <head>N° ٧٣٣ – <date when="1294-10-21">٢١ Shawwal ١٢٩٤</date> – <date when="1877-10-28"
+                  >٢٨ octobre ١٨٧٧</date> – ١٩ Baba ١٥٩٤</head>
             <head><bibl><biblScope unit="page">صفحة ١</biblScope> – <biblScope unit="column">العمود
                      ١</biblScope></bibl></head>
             <head>الحوادث الداخليه</head>
@@ -532,7 +544,8 @@
                   المطريه</persName></p>
          </div>
          <div>
-            <head>N° ٧٣٩ – ٤ Dhul Hijja ١٢٩٤ – ٩ décembre ١٨٧٧ – ١ Kiahk ١٥٩٤</head>
+            <head>N° ٧٣٩ – <date when="1294-12-04">٤ Dhul Hijja ١٢٩٤</date> – <date
+                  when="1877-12-09">٩ décembre ١٨٧٧</date> – ١ Kiahk ١٥٩٤</head>
             <head>اعلانات</head>
             <head>نص اعلان وارد من <orgName type="ديوان" ref="ديوان-الاوقاف">ديوان الاوقاف</orgName>
                بتاريخ <bibl><biblScope unit="1294-11-9">٩ ذى القعده سنة
